@@ -51,7 +51,10 @@ public class Registrar {
 		}
 		return registrar;
 	}
-
+	/*
+	 * Get current students.
+	 * @return list of student.
+	 */
 	public List<Student> getStudents() {
 		return students;
 	}
